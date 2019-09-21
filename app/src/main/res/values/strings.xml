@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="poodle">Poooooodle!</string>
+    <string name="action_settings">Settings</string>
+    <string name="resource">Resource</string>
+    <string name="media">Media</string>
+
+</resources>
